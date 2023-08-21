@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+img.centered {
+    position:fixed;
+    width:  1000px;
+    height: 1000px;
+    left: 50%;
+    top:  50%;
+    margin-left: -500px; /* 100px/2 = 50px */
+    margin-top:  -500px; /* ditto */
+}
+
+p { color: gray }
